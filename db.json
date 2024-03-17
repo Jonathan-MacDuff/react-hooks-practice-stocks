@@ -1,4 +1,13 @@
 {
+  "portfolio": [
+    {
+      "id": 2,
+      "ticker": "FB",
+      "name": "Facebook",
+      "type": "Tech",
+      "price": 168.85
+    }
+  ],
   "stocks": [
     {
       "id": 1,
